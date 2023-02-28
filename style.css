@@ -1,0 +1,10 @@
+.input{
+    padding: 20px;
+
+}
+
+li{
+    padding: 10px;
+    list-style: none;
+    border: 1px solid black;
+}
